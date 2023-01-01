@@ -1,0 +1,29 @@
+{
+  "name": "fastyt",
+  "version": "1.0.0",
+  "description": "Youtube Video Alert Bot Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "alert",
+    "discord",
+    "bot",
+    "fastuptime",
+    "can",
+    "fastyt"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
